@@ -1,5 +1,5 @@
 // ============================================================
-//  Dreamcream Parlor — Shared Frontend JS
+//  Pathan Ice-cream Parlor — Shared Frontend JS
 // ============================================================
 
 const API = '';  // same origin
@@ -118,7 +118,7 @@ function buildNavbar() {
   placeholder.innerHTML = `
   <nav class="navbar navbar-expand-md navbar-dark fixed-top dc-navbar" role="banner">
     <div class="container">
-      <a class="navbar-brand" href="index.html">🍦 Dreamcream Parlor</a>
+      <a class="navbar-brand" href="index.html">🍦 Pathan Ice-cream Parlor</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-nav">
         <span class="navbar-toggler-icon"></span>
       </button>
