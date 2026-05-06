@@ -1,10 +1,10 @@
 -- =============================================
--- Dreamcream Parlor - MySQL Database Schema
+-- Pathan Ice-cream Parlor - MySQL Database Schema
 -- Run: mysql -u root -p < schema.sql
 -- =============================================
 
-CREATE DATABASE IF NOT EXISTS dreamcream_db CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
-USE dreamcream_db;
+CREATE DATABASE IF NOT EXISTS icecream_parlor_db CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+USE icecream_parlor_db;
 
 -- Users table
 CREATE TABLE IF NOT EXISTS users (

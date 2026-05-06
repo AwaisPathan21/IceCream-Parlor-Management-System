@@ -1,7 +1,7 @@
 {
-  "name": "dreamcream-parlor",
+  "name": "pathan-icecream-parlor",
   "version": "1.0.0",
-  "description": "Dreamcream Ice Cream Parlor - Full Stack Website",
+  "description": "Ice Cream Parlor Management System - Full Stack Website",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",

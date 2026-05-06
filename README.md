@@ -1,4 +1,4 @@
-# 🍦 Dreamcream Parlor — Full Stack Website
+# 🍦 Pathan Ice-cream Parlor — Full Stack Website
 
 A complete ice cream delivery website with customer accounts, cart, payment, and 10-minute home delivery.
 
@@ -43,7 +43,7 @@ Visit: **http://localhost:3000**
 
 ## 📁 Project Structure
 ```
-dreamcream-parlor/
+ice-cream Parlor management System/
 ├── server.js            # Express server
 ├── db.js                # MySQL connection pool
 ├── schema.sql           # Database schema + seed data
