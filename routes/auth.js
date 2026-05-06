@@ -4,7 +4,7 @@ const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');
 const db = require('../db');
 
-const JWT_SECRET = process.env.JWT_SECRET || 'dreamcream_secret';
+const JWT_SECRET = process.env.JWT_SECRET || 'icecream_secret';
 
 // POST /api/auth/register
 router.post('/register', async (req, res) => {
