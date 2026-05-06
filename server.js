@@ -19,5 +19,5 @@ app.get('*', (req, res) => {
 
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
-  console.log(`\n🍦 Dreamcream Parlor running at http://localhost:${PORT}\n`);
+  console.log(`\n🍦 Pathan Ice-cream Parlor running at http://localhost:${PORT}\n`);
 });
